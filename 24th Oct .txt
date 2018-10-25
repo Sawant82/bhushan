@@ -1,0 +1,13 @@
+Get-Random
+
+Get-date
+
+Get-HotFix
+
+Get-EventLog -logname Security -Newest 50
+
+
+
+
+
+
